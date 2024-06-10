@@ -13,10 +13,10 @@
  
  ##Tecnologias utilizadas
 
- -React
- -HTML
- -CSS
- -GitHub API
+ - React
+ - HTML
+ - CSS
+ - GitHub API
 
  Clone o repositório
  #Link 
