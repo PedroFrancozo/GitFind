@@ -8,8 +8,8 @@
 
  ##Funcionalidades
 
- -Busca por usename de usuário do GitHub
- -Exibição dos repositórios do usuário encontrado
+ - Busca por usename de usuário do GitHub
+ - Exibição dos repositórios do usuário encontrado
  
  ##Tecnologias utilizadas
 
